@@ -18,15 +18,10 @@ The following **required** functionality is completed:
 - [ ] Fonts color changes when background changes 
  
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
 <div>
-    <a href="https://www.loom.com/share/a079931d325b4de68abce05320974eb8">
+    <a href="https://www.loom.com/share/a079931d325b4de68abce05320974eb8.gif">
     </a>
-    <a href="https://www.loom.com/share/a079931d325b4de68abce05320974eb8">
+    <a href="https://www.loom.com/share/a079931d325b4de68abce05320974eb8.gif">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a079931d325b4de68abce05320974eb8-with-play.gif">
     </a>
   </div>
