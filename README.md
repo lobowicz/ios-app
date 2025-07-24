@@ -10,12 +10,12 @@ Time spent: **8** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users can see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
-- [ ] There a images corresponding to the three labels
-- [ ] The is a switch button that changes display to Dark Mode and Light Mode
-- [ ] There is a hyperlink to GitHub page opened in Safari when the word "here" is clicked
-- [ ] Fonts color changes when background changes 
+- [x] Users can see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
+- [x] There a images corresponding to the three labels
+- [x] The is a switch button that changes display to Dark Mode and Light Mode
+- [x] There is a hyperlink to GitHub page opened in Safari when the word "here" is clicked
+- [x] Fonts color changes when background changes 
  
 ## Video Walkthrough
 <div>
